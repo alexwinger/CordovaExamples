@@ -1,0 +1,23 @@
+/* Empty. Add your own CSS if you like */
+.imgholder {
+	background-color:gray;
+	text-align:center;
+	width:300px;
+	height:300px;
+}
+
+.photo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.available-scroller {
+  height: 615px;
+}
+
+.button {
+  display: flex;
+  align-items: right;
+  justify-content: right;
+}
